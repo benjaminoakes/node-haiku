@@ -26,7 +26,7 @@ While reading through the [Haiku documentation][hdocs] (more specifically, [Prog
 To Dos
 ------
 
-* Get Node.js to build on Haiku (an obvious prereq. :) )
+* Get Node.js to build on Haiku (an obvious prereq. :) ).  See https://github.com/benjaminoakes/node
 * Make a simple wrapper to allow a "hello world" GUI program to be made
 
 Contributing
