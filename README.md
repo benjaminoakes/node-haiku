@@ -43,7 +43,7 @@ In a terminal:
   
 In a terminal:
 
-    git clone git://github.com/benjaminoakes/node-haiku.git)
+    git clone git://github.com/benjaminoakes/node-haiku.git
 
   [hdl]: http://haiku-os.org/get-haiku
   [vboxdl]: http://www.virtualbox.org/wiki/Downloads
