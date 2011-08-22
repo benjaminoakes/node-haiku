@@ -28,9 +28,10 @@ Getting Started:
 
 * [Download][hdl] the lasest release of Haiku
 * You'll probably want to run it virtualized.  [VirtualBox][vboxdl] is a good option.
-* Download and build [Node.js v0.4.7][njsdl] (the current stable target)
+* Download and build [Node.js v0.4.7][njsdl] (the current target)
 
-    # NOTE These steps still need testing
+In a terminal:
+
     wget http://nodejs.org/dist/node-v0.4.7.tar.gz
     tar xvfz node-v0.4.7.tar.gz
     cd node-v0.4.7
@@ -40,6 +41,8 @@ Getting Started:
 
 * Clone the repository (git's included with Haiku)
   
+In a terminal:
+
     git clone git://github.com/benjaminoakes/node-haiku.git)
 
   [hdl]: http://haiku-os.org/get-haiku
