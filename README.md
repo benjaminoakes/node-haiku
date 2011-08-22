@@ -1,7 +1,7 @@
 node-haiku
 ==========
 
-Node.js bindings for Haiku (née OpenBeOS), an event-based OS.
+Bindings for an evented language (Node.js) to an evented OS (Haiku, née OpenBeOS).
 
 Currently very early in development, contributions welcome (see Contributing).
 
