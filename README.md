@@ -3,7 +3,16 @@ node-haiku
 
 Bindings for an evented language (Node.js) to an evented OS (Haiku, née OpenBeOS).
 
-Currently very early in development, contributions welcome (see Contributing).
+I'm gauging interest right now, so please become a watcher if you're interested.  It's currently very early in development.  Contributions are very welcome (see Contributing).
+
+Have experience with:
+
+* Node.js internals?
+* The Haiku API?
+* Porting languages to Haiku?
+* Anything else related?
+
+Your input, interest, and contributions are valuable and encouraged!
 
 Introduction
 ------------
