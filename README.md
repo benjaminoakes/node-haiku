@@ -19,6 +19,8 @@ Introduction
 
 While reading through the [Haiku documentation][hdocs] (more specifically, [Programming the Be Operating System][pbeos]), I realized that the event loop structure of the Haiku API is very similar to what [Node.js][njs] provides.  Writing bindings for Node to interact with Haiku seems interesting.  Primarily, this is a place for me to play with both Node and Haiku as I would like to learn more about both, just for fun.
 
+Want more of a background?  See the documentation on the message (event) loop, BLooper, BHandler and BMessage.
+
   [hdocs]: http://haiku-os.org/documents
   [pbeos]: http://haiku-os.org/legacy-docs/programming_the_be_operating_system.pdf
   [njs]: http://nodejs.org/
