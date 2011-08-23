@@ -29,6 +29,7 @@ To Dos
 ------
 
 * Get Node.js to build on Haiku (an obvious prereq. :) ).  See https://github.com/benjaminoakes/node
+* Integrate work from GSoC 2011: https://www.haiku-os.org/blog/jalopeura
 * Make a simple wrapper to allow a "hello world" GUI program to be made
 
 Contributing
